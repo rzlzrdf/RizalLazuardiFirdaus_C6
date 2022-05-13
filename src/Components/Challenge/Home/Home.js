@@ -14,7 +14,7 @@ const Home = () => {
 				<nav className={`navbar navbar-expand-lg navbar-light ${style.navbar_bg}`}>
 					<div className="container-fluid navbar-container">
 						<Link to="#" className="navbar-brand navbar_left">
-							<img src="/image/binar.png" alt="binarlogo" className={style.image_navbar} />
+							<img src="/image/logo.svg" alt="binarlogo" className={style.image_navbar} />
 						</Link>
 						<button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 							<span className="navbar-toggler-icon"></span>

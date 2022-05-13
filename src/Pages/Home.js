@@ -5,6 +5,7 @@ const Homes = () => {
 	return (
 		<div>
 			<Home />
+			<h1>This is Home (user)</h1>
 		</div>
 	);
 };
